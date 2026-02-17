@@ -1,6 +1,6 @@
 ## Change the github token and owner name before using it otherwise the website will not deploy
 # Autonomous Application Builder
-## By Team: Ctrl + Shift + N 💀
+## By Team: Ctrl + Shift + N 
 
 ### Contributors:
 - Pranab Pandey (B24148)
